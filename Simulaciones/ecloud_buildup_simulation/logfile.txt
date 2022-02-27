@@ -1,41 +1,41 @@
 PyECLOUD Version 8.6.0
 git hash: b'4069f92c1befdc7e1ff787b95aa81c111f73ff56'
 git branch: b'master'
-Simulation started on 17 Feb 2022 15:06:05
-Initialization finished on 17 Feb 2022 15:07:05
-17 Feb 2022 15:07:05 pass. 0/36, cloud=default: Nel_tot=2.000000e+08 N_mp=42000
-17 Feb 2022 15:07:16 pass. 1/36, cloud=default: Nel_tot=2.220718e+08 N_mp=57512
-17 Feb 2022 15:07:30 pass. 2/36, cloud=default: Nel_tot=2.521886e+08 N_mp=70008
-17 Feb 2022 15:07:36 pass. 3/36, cloud=default: Nel_tot=2.916595e+08 N_mp=28279
-17 Feb 2022 15:07:37 pass. 4/36, cloud=default: Nel_tot=3.432777e+08 N_mp=35862
-17 Feb 2022 15:07:43 pass. 5/36, cloud=default: Nel_tot=4.096960e+08 N_mp=43534
-17 Feb 2022 15:07:46 pass. 6/36, cloud=default: Nel_tot=4.919661e+08 N_mp=52917
-17 Feb 2022 15:07:49 pass. 7/36, cloud=default: Nel_tot=5.910774e+08 N_mp=64584
-17 Feb 2022 15:07:51 pass. 8/36, cloud=default: Nel_tot=7.053764e+08 N_mp=29098
-17 Feb 2022 15:07:51 pass. 9/36, cloud=default: Nel_tot=8.362686e+08 N_mp=37746
-17 Feb 2022 15:07:52 pass. 10/36, cloud=default: Nel_tot=9.791391e+08 N_mp=46529
-17 Feb 2022 15:07:53 pass. 11/36, cloud=default: Nel_tot=1.126717e+09 N_mp=56236
-17 Feb 2022 15:07:56 pass. 12/36, cloud=default: Nel_tot=1.270538e+09 N_mp=66985
-17 Feb 2022 15:07:57 pass. 13/36, cloud=default: Nel_tot=1.405342e+09 N_mp=29402
-17 Feb 2022 15:08:02 pass. 14/36, cloud=default: Nel_tot=1.517953e+09 N_mp=37316
-17 Feb 2022 15:08:03 pass. 15/36, cloud=default: Nel_tot=1.614151e+09 N_mp=44037
-17 Feb 2022 15:08:03 pass. 16/36, cloud=default: Nel_tot=1.696246e+09 N_mp=50585
-17 Feb 2022 15:08:03 pass. 17/36, cloud=default: Nel_tot=1.760579e+09 N_mp=57052
-17 Feb 2022 15:08:04 pass. 18/36, cloud=default: Nel_tot=1.810900e+09 N_mp=63536
-17 Feb 2022 15:08:04 pass. 19/36, cloud=default: Nel_tot=1.839154e+09 N_mp=30562
-17 Feb 2022 15:08:05 pass. 20/36, cloud=default: Nel_tot=1.863080e+09 N_mp=37849
-17 Feb 2022 15:08:05 pass. 21/36, cloud=default: Nel_tot=1.887824e+09 N_mp=43482
-17 Feb 2022 15:08:05 pass. 22/36, cloud=default: Nel_tot=1.908229e+09 N_mp=48585
-17 Feb 2022 15:08:05 pass. 23/36, cloud=default: Nel_tot=1.925612e+09 N_mp=53309
-17 Feb 2022 15:08:06 pass. 24/36, cloud=default: Nel_tot=1.938040e+09 N_mp=57939
-17 Feb 2022 15:08:06 pass. 25/36, cloud=default: Nel_tot=1.945473e+09 N_mp=62464
-17 Feb 2022 15:08:13 pass. 26/36, cloud=default: Nel_tot=1.943844e+09 N_mp=31640
-17 Feb 2022 15:08:22 pass. 27/36, cloud=default: Nel_tot=1.949031e+09 N_mp=39014
-17 Feb 2022 15:08:32 pass. 28/36, cloud=default: Nel_tot=1.960919e+09 N_mp=44681
-17 Feb 2022 15:08:43 pass. 29/36, cloud=default: Nel_tot=1.962016e+09 N_mp=49724
-17 Feb 2022 15:08:53 pass. 30/36, cloud=default: Nel_tot=1.968883e+09 N_mp=54236
-17 Feb 2022 15:09:03 pass. 31/36, cloud=default: Nel_tot=1.186786e+09 N_mp=54224
-17 Feb 2022 15:09:13 pass. 32/36, cloud=default: Nel_tot=8.031346e+08 N_mp=54174
-17 Feb 2022 15:09:23 pass. 33/36, cloud=default: Nel_tot=5.808410e+08 N_mp=54101
-17 Feb 2022 15:09:33 pass. 34/36, cloud=default: Nel_tot=4.404895e+08 N_mp=54026
-17 Feb 2022 15:09:42 pass. 35/36, cloud=default: Nel_tot=3.477146e+08 N_mp=53939
+Simulation started on 26 Feb 2022 18:31:19
+Initialization finished on 26 Feb 2022 18:32:03
+26 Feb 2022 18:32:03 pass. 0/36, cloud=default: Nel_tot=2.000000e+08 N_mp=42000
+26 Feb 2022 18:32:09 pass. 1/36, cloud=default: Nel_tot=2.220529e+08 N_mp=57529
+26 Feb 2022 18:32:16 pass. 2/36, cloud=default: Nel_tot=2.520684e+08 N_mp=69749
+26 Feb 2022 18:32:19 pass. 3/36, cloud=default: Nel_tot=2.917748e+08 N_mp=28395
+26 Feb 2022 18:32:23 pass. 4/36, cloud=default: Nel_tot=3.425295e+08 N_mp=35868
+26 Feb 2022 18:32:28 pass. 5/36, cloud=default: Nel_tot=4.068501e+08 N_mp=43522
+26 Feb 2022 18:32:33 pass. 6/36, cloud=default: Nel_tot=4.874066e+08 N_mp=52744
+26 Feb 2022 18:32:39 pass. 7/36, cloud=default: Nel_tot=5.843960e+08 N_mp=64075
+26 Feb 2022 18:32:43 pass. 8/36, cloud=default: Nel_tot=6.966426e+08 N_mp=28929
+26 Feb 2022 18:32:47 pass. 9/36, cloud=default: Nel_tot=8.245505e+08 N_mp=37514
+26 Feb 2022 18:32:52 pass. 10/36, cloud=default: Nel_tot=9.648663e+08 N_mp=46173
+26 Feb 2022 18:32:58 pass. 11/36, cloud=default: Nel_tot=1.109877e+09 N_mp=55815
+26 Feb 2022 18:33:05 pass. 12/36, cloud=default: Nel_tot=1.252366e+09 N_mp=66501
+26 Feb 2022 18:33:09 pass. 13/36, cloud=default: Nel_tot=1.382147e+09 N_mp=29346
+26 Feb 2022 18:33:13 pass. 14/36, cloud=default: Nel_tot=1.500440e+09 N_mp=37129
+26 Feb 2022 18:33:18 pass. 15/36, cloud=default: Nel_tot=1.597949e+09 N_mp=43980
+26 Feb 2022 18:33:24 pass. 16/36, cloud=default: Nel_tot=1.679880e+09 N_mp=50500
+26 Feb 2022 18:33:30 pass. 17/36, cloud=default: Nel_tot=1.749225e+09 N_mp=56956
+26 Feb 2022 18:33:37 pass. 18/36, cloud=default: Nel_tot=1.800940e+09 N_mp=63446
+26 Feb 2022 18:33:41 pass. 19/36, cloud=default: Nel_tot=1.843778e+09 N_mp=30776
+26 Feb 2022 18:33:46 pass. 20/36, cloud=default: Nel_tot=1.874250e+09 N_mp=38041
+26 Feb 2022 18:33:51 pass. 21/36, cloud=default: Nel_tot=1.905972e+09 N_mp=43846
+26 Feb 2022 18:33:57 pass. 22/36, cloud=default: Nel_tot=1.929613e+09 N_mp=49028
+26 Feb 2022 18:34:03 pass. 23/36, cloud=default: Nel_tot=1.943390e+09 N_mp=53881
+26 Feb 2022 18:34:09 pass. 24/36, cloud=default: Nel_tot=1.953173e+09 N_mp=58582
+26 Feb 2022 18:34:17 pass. 25/36, cloud=default: Nel_tot=1.966212e+09 N_mp=63313
+26 Feb 2022 18:34:21 pass. 26/36, cloud=default: Nel_tot=1.964227e+09 N_mp=31676
+26 Feb 2022 18:34:26 pass. 27/36, cloud=default: Nel_tot=1.967414e+09 N_mp=38962
+26 Feb 2022 18:34:31 pass. 28/36, cloud=default: Nel_tot=1.964213e+09 N_mp=44635
+26 Feb 2022 18:34:37 pass. 29/36, cloud=default: Nel_tot=1.967934e+09 N_mp=49483
+26 Feb 2022 18:34:43 pass. 30/36, cloud=default: Nel_tot=1.970631e+09 N_mp=53998
+26 Feb 2022 18:34:49 pass. 31/36, cloud=default: Nel_tot=1.186831e+09 N_mp=53982
+26 Feb 2022 18:34:55 pass. 32/36, cloud=default: Nel_tot=8.034289e+08 N_mp=53930
+26 Feb 2022 18:35:01 pass. 33/36, cloud=default: Nel_tot=5.814428e+08 N_mp=53850
+26 Feb 2022 18:35:06 pass. 34/36, cloud=default: Nel_tot=4.405044e+08 N_mp=53774
+26 Feb 2022 18:35:12 pass. 35/36, cloud=default: Nel_tot=3.464663e+08 N_mp=53687
