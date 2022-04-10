@@ -7,13 +7,21 @@ y_aper = 1.800000e-02
 
 filename_chm = 'LHC_chm_ver.mat'
 
-
+#Photoemission parameters
+#photoem_flag = 1
+photoem_flag = 'from_file'
+inv_CDF_all_photoem_file = 'inv_cdf_phem_ang_dirstrib.mat'
+k_pe_st = 0.0007
+e_pe_sigma = 5. #in eV
+e_pe_max = 7.   #in eV
+out_radius = 0.024
+energy_distribution = 'gaussian'
 
 
 # Choose track_method= 'StrongBdip' / 'StrongBgen'/ 'Boris'
 track_method= 'BorisMultipole'
 N_sub_steps = 5
-B_multip = [0]
+B_multip = [0.0,223.0]
 
 
 
@@ -23,15 +31,13 @@ betafy = 90.00
 
 
 # uniform initial distrib
-init_unif_flag=1
-Nel_init_unif=2e8
+init_unif_flag=0
+Nel_init_unif=0
 E_init_unif=0.01;   #in eV
 x_max_init_unif =x_aper
 x_min_init_unif =-x_aper
 y_max_init_unif =y_aper
 y_min_init_unif =-y_aper
- 
 
-
-
+#phem_resc_fact =
 photoelectron_angle_distribution = 'cosine_3D'

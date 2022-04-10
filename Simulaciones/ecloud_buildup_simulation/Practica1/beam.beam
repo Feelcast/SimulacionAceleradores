@@ -12,7 +12,7 @@ Ny = None
 nimag = None
 
 
-b_spac   = 25e-9     #s (to be specified also if you load the profile from file - 
+b_spac   = 12.5e-9     #s (to be specified also if you load the profile from file - 
                      #   it is used as period for clean and save)
 fact_beam = 1.100000e+11
 coast_dens = 0. #protons per meter
